@@ -1,4 +1,4 @@
-**created a bug-fix branch**<<<<<<< HEAD
+<<<<<<< HEAD
 **created a bug-fix branch**
 =======
 **created a steps.me file**
