@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 **Reggie Mlay**
 
 **CSCI 3323 - Fall 2022**
@@ -8,4 +7,4 @@
 
 **Due On September 5th 2022**
 
->>>>>>> main
+
